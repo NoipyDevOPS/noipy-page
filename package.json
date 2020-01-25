@@ -33,6 +33,7 @@
     ]
   },
   "devDependencies": {
-    "codecov": "^3.6.2"
+    "codecov": "^3.6.2",
+    "sync-glitch-cli": "^2.0.1"
   }
 }
