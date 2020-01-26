@@ -5,7 +5,7 @@
  * Date     :   26/01/2020
  */
 import React, {Component}   from 'react';
-import logo                 from './logo.svg';
+//import logo                 from './logo.svg';
 import Toolbar              from './components/Toolbar/Toolbar'
 import SideDrawer           from './components/SideDrawer/SideDrawer'
 import Backdrop             from './components/Backdrop/Backdrop'
