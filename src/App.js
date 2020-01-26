@@ -1,7 +1,15 @@
-import React from 'react';
-import logo from './logo.svg';
+/**
+ * Author   :   Allan Nava
+ * Modifier :   Allan Nava
+ * Update   :   26/01/2020
+ * Date     :   26/01/2020
+ */
+import React  from 'react';
+import logo   from './logo.svg';
+///
 import './App.css';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
+///
 function App() {
   return (
     <div className="App">
@@ -24,5 +32,6 @@ function App() {
     </div>
   );
 }
-
+///
 export default App;
+///
